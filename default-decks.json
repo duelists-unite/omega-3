@@ -1,4 +1,5 @@
-[
+{
+    decks = [
     {"Name":"Branded Eldlich","Code":"M+c3CtjACsKv94mwgPB65XsMMNz8ZgkTDPd/Z2GFYbslhYxTl9+HY8YWKzhW8pjJAMOV/3pZQXizvhUjDB+/qMsMw9NNslhheGHaOxYYFkwqZIRh051lLOXzFjKB8OPzJUxbfbRZOp5ZsYLwERcTFj2/cqYTRn2M4YkpzC5zM1hWStUxeKpOY8j0ecb6pp+RAYZ3H//O/OuOCGNs5j0mEFa+NheOGVjsGA41pzL/ZqlggmFQmAAA","Tag":"Starter;TCG;June 2022;Hernan Bravo"},
     {"Name":"Prank Kids","Code":"s+Bft+c+IwgnOYnB8XrlewwwbOsTxAzDHqeussDwFXUZhneq/1jseaWYYDiyOpnll8VaVhCWM29ihGG7JYWMh44XwfGsiG0sMJznMosJhFek97J4OvxgAGElj5lwvDDtHcsa3cdgHNskxRipuZxJrcqS5YiLIut+Pk+mH0vnMtnacTLCcMx+Q5ZMn2esfZ0djFtuNzBdl5rPCMN/O+ewwrDytblMMCyYVMgIw79ZKphgGOR/AA==","Tag":"Starter;TCG;Dec 2021;Vincenzo"},
     {"Name":"Subterror","Code":"s+Cf02rCtK6mmOXLoW6mb2t/McAw27dopvXK9xhgOOxkCQsM939nYYXhW7pxDDAcWZ3MYrekkHE3VyLLivRelqxpl5jEPoQxwLCSx0wwnmoeyJr0rogFhOWvpTGCsGBSIRj/ZqlgguHbU7PB2HRnGUvMj9UMDT6GrDJLDrHckaxlWCXoyPT4fAkYb/XRZgHhoE87WKQql7NkXznDUtfpzAzC16XmM4Kw2gQnZhj+dUeEsUW1jgGEYzPvMYEwA4sdQ0LJdxYQzi97zwDCoHAAAA==","Tag":"Starter;TCG;June 2022;Szabo Tamas"},
@@ -21,3 +22,4 @@
     {"Name":"Resonators","Code":"U2DXuHyRXebeBhYQ/liixAzDhTlCTDB8zaYQjh1E4hlh+Oq3awww3KJaB8bv1QPhuGbhe1YQ/phixPR7ugcrCF8IiGDRsPvIDMMN02YwnCpPYgbhc/VsDMVPLzHcDJdnAWGQ3QA=","Tag":"Starter;DL;July 2021"},
     {"Name":"Dragon","Code":"02DYvFuDXXcFAm/djcCHHiFwvosmHB8E8n+Ha7JvBKoB4YmvNNhvAcUagXKKZzXZ64F0RbYmuxbQvF9AdTUuCPwHyH9toMm+G6hvDxC/BOr7xanJ/hRIvwXifbsheC8QP96sATYHAA==","Tag":"Starter;Rush;July 2021"}
   ]
+}
